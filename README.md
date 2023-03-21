@@ -6,6 +6,7 @@
 
 - List All AD Computers
 - List All AD Computers Inside an AD OU
+- Create a New AD Computer
 
 ## How to use this code:
 
