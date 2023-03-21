@@ -7,6 +7,7 @@
 - List All AD Computers
 - List All AD Computers Inside an AD OU
 - Create a New AD Computer
+- Clean Up Inactive AD Computers
 
 ## How to use this code:
 
