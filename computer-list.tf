@@ -20,6 +20,6 @@ data "kopicloud_computer_list" "test" {
 
 # Returns All Computers Inside an OU
 output "OUTPUT_all_computers_list_inside_ou" {
-  description = "Existing All Computers Inside an OU"
+  description = "All Existing Computers Inside an OU"
   value       = data.kopicloud_computer_list.test
 }
